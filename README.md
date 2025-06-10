@@ -41,15 +41,13 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 <br></br>
 
 
-<p>
-🔄 Carregando novas tecnologias...
-[■■■■□□□□□□] 40% - Explorando conceitos avançados de JavaScript
-[■■■■■□□□□□] 50% - Praticando com Node.js + Express.js
-[■■■■■■■□□□] 70% - Integrando bancos de dados relacionais e não-relacionais
-[■■■■■■■■■□] 90% - Melhorando a fluência com Git e controle de versões
-[■■■■■■■■■■] 100% - Sempre aprendendo! 💻🚀
-
-</p>
+<div style="display: flex; flex-direction: column; gap: 10px; font-family: sans-serif;">
+  <p>🔄 Carregando novas tecnologias...</p>
+  <p>[■■■■□□□□□□] 40% - Explorando conceitos avançados de JavaScript</p>
+  <p>[■■■■■□□□□□] 50% - Praticando com Node.js + Express.js</p>
+  <p>[■■■■■■■□□□] 70% - Integrando bancos de dados relacionais e não-relacionais</p>
+  <p>[■■■■■■■■■■] 100% - Sempre aprendendo! 💻🚀</p>
+</div>
 
 <br></br>
 
