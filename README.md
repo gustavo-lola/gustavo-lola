@@ -64,7 +64,7 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
