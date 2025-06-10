@@ -49,7 +49,6 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
   <p>[■■■■■■■■■■] 100% - Sempre aprendendo! 💻🚀</p>
 </div>
 
-<br></br>
 
 ### 📊 Estatísticas
 
@@ -65,7 +64,7 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
