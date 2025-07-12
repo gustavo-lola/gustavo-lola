@@ -4,7 +4,7 @@
 
 Gustavo Henrique
 📍 Arapiraca, Alagoas | 🎓 Bacharelado em Sistemas de Informação – IFAL
-✉️ zuitsu01@gmail.com | ☁️ Interesse: Desenvolvimento de Software & Tecnologia da Informação
+✉️ zuitsu01@gmail.com | ☁️ Interesse: Engenharia de Software && DevOps
 
 Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas – Campus Arapiraca. Natural de Arapiraca e com 19 anos, sou apaixonado por tecnologia e tenho grande interesse pela área de desenvolvimento de software. Estou sempre em busca de novos conhecimentos, com foco em programação, inovação e soluções criativas para problemas reais. Busco oportunidades que me permitam aplicar e expandir minhas habilidades técnicas, contribuindo para projetos desafiadores e de impacto.
 
