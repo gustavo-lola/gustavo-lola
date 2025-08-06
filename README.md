@@ -1,6 +1,6 @@
 # Gustavo Lola
 
-**`Desenvolvedor Iniciante`**
+**`Engenheiro De Software Iniciante`**
 
 Gustavo Henrique
 📍 Arapiraca, Alagoas | 🎓 Bacharelado em Sistemas de Informação – IFAL
