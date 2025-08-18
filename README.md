@@ -54,6 +54,14 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
