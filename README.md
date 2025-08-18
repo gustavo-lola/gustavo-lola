@@ -100,24 +100,20 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 
 
 <div style="display: flex; flex-direction: column; gap: 10px; font-family: sans-serif;">
-  <p>🔄 Carregando novas tecnologias...</p>
-  <p>[■■■■□□□□□□] 40% - Explorando conceitos avançados de JavaScript</p>
-  <p>[■■■■■□□□□□] 50% - Praticando com Node.js + Express.js</p>
-  <p>[■■■■■■■□□□] 70% - Integrando bancos de dados relacionais e não-relacionais</p>
-  <p>[■■■■■■■■■■] 100% - Sempre aprendendo! 💻🚀</p>
+  <p>Carregando novas tecnologias...</p>
 </div>
 
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide=stars" 
-  />
+ <img 
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&cache_seconds=1800"
+/>
 
 <img 
       align="left" 
