@@ -107,19 +107,19 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 ### 📊 Estatísticas
 
 <p>
- <img 
+<img
   align="left"
   alt="GitHub Stats"
   height="200"
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&theme=dracula&include_all_commits=true&hide=stars&cache_seconds=1800"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800&bg_color=000000&title_color=9FEF00&text_color=C9D1D9&icon_color=9FEF00&border_color=30363D"
 />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+  align="left"
+  alt="Top Langs"
+  height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=9&cache_seconds=1800&bg_color=000000&title_color=9FEF00&text_color=C9D1D9&icon_color=9FEF00&border_color=30363D"
+/>
 
 </p>
