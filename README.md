@@ -93,9 +93,6 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
-
-
-
 <br></br>
 
 
@@ -122,6 +119,8 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
 />
 
 </p>
+
+<br></br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph-dark.svg">
