@@ -118,16 +118,10 @@ Sou estudante de Bacharelado em Sistemas de Informação no Instituto Federal de
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=9&cache_seconds=1800&bg_color=0E0E0E&title_color=E4E4E4&text_color=C0C0C0&icon_color=FF8C00&border_color=2A2A2A"
 />
 
-</p>
-
-<br></br>
-<br></br>
-<br></br>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph.svg">
 </picture>
 
+</p>
