@@ -1,0 +1,32 @@
+name: Generate Pac-Man Graph
+
+on:
+  schedule:
+    
+cron: "0 /24 * *"  # roda a cada 24h
+workflow_dispatch:        # permite rodar manualmente
+push:
+  branches:
+main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      
+name: Gerar pacman-contribution-graph.svg
+      uses: abozanona/pacman-contribution-graph@main
+      with:
+        github_user_name: ${{ github.repository_owner }}
+
+      
+name: Publicar SVG no branch output
+      uses: crazy-max/ghaction-github-pages@v3.1.0
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
