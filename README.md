@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 I am an undergraduate student pursuing a **Bachelor’s degree in Information Systems** at the Federal Institute of Alagoas – Campus Arapiraca.  
 
 At 19 years old, I am passionate about **technology and innovation**, with a strong focus on **software development** and **problem-solving**.  
 I am continuously learning and seeking new challenges that allow me to grow as a professional while contributing to meaningful projects.  
 
-💡 **Core Interests**  
+ **Core Interests**  
 - Software Engineering & DevOps practices  
 - Web Development (Front-end & Back-end)  
 - Building scalable and efficient applications  
@@ -23,7 +23,7 @@ I am continuously learning and seeking new challenges that allow me to grow as a
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I am continuously learning and seeking new challenges that allow me to grow as a
 
 ---
 
-## 📚 Currently Learning  
+## Currently Learning  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
@@ -47,7 +47,7 @@ I am continuously learning and seeking new challenges that allow me to grow as a
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&cache_seconds=1800&bg_color=0E0E0E&title_color=E4E4E4&text_color=C0C0C0&icon_color=FF8C00&border_color=2A2A2A"/>
@@ -56,7 +56,7 @@ I am continuously learning and seeking new challenges that allow me to grow as a
 
 ---
 
-## 🎮 Fun Contribution Graph  
+## Fun Contribution Graph  
 
 <div align="center">
   <picture>
