@@ -4,7 +4,7 @@
 
 📍 Arapiraca, Alagoas – Brazil  
 🎓 B.Sc. in Information Systems – IFAL  
-✉️ ghls2@aluno.ifal.edu.br  
+✉️ gustavolola.dev@gmail.com  
 
 ---
 
