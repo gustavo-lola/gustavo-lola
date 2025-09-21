@@ -54,14 +54,3 @@ I am continuously learning and seeking new challenges that allow me to grow as a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=8&cache_seconds=1800&bg_color=0E0E0E&title_color=E4E4E4&text_color=C0C0C0&icon_color=FF8C00&border_color=2A2A2A"/>
 </div>  
 
----
-
-## Fun Contribution Graph  
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gustavo-lola/gustavo-lola/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
