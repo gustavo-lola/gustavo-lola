@@ -2,9 +2,9 @@
 
 **`Junior Software Engineer | DevOps Enthusiast`**  
 
-📍 Arapiraca, Alagoas – Brazil  
-🎓 B.Sc. in Information Systems – IFAL  
-✉️ gustavolola.dev@gmail.com  
+Arapiraca, Alagoas – Brazil  
+B.Sc. in Information Systems – IFAL  
+gustavolola.dev@gmail.com  
 
 ---
 
