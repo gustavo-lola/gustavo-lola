@@ -1,25 +1,21 @@
 <h1 align="center">Olá 👋, sou o Gustavo Lola</h1>
 
 <div align="center">
+
+  <h3>Gustavo's GitHub Stats</h3>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00&border_color=2a2a2a" 
+    alt="Gustavo Lola GitHub stats" 
+    height="160"
+  />
   
-  <table>
-    <tr>
-      <td>
-        <h3>Gustavo's GitHub Stats</h3>
-        <ul>
-          <li>Total Stars Earned: 0</li>
-          <li>Total Commits (last year): 43</li>
-          <li>Total PRs: 7</li>
-          <li>Total Issues: 0</li>
-          <li>Contributed to (last year): 0</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00" alt="Gustavo Lola GitHub stats" height="140"/>
-      </td>
-    </tr>
-  </table>
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00&border_color=2a2a2a" 
+    alt="Top Languages" 
+    height="160"
+  />
+
 </div>
 
 ---
@@ -49,9 +45,11 @@
   <a href="https://github.com/gustavo-lola" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/gustavo-lola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
