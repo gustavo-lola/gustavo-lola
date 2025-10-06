@@ -1,8 +1,15 @@
-<h1 align="center">Olá 👋, sou o Gustavo Lola</h1>
+<h1 align="center">Hello 👋, I'm Gustavo Lola</h1>
+
+<p align="center">
+  👨‍💻 <strong>Junior Software Engineer | DevOps Enthusiast</strong><br/>
+  📍 Arapiraca, Alagoas - Brazil
+</p>
+
+---
 
 <div align="center">
 
-  <h3>Gustavo's GitHub Stats</h3>
+  <h3> Gustavo's GitHub Stats</h3>
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00&border_color=2a2a2a" 
@@ -20,7 +27,7 @@
 
 ---
 
-## Ferramentas que utilizo
+## Tools I Use
 
 <div align="center">
   
@@ -38,7 +45,17 @@
 
 ---
 
-## Como me encontrar
+## Currently Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>
+</div>
+
+---
+
+## How to Reach Me
 
 <div align="center">
   
