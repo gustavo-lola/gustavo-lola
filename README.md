@@ -7,26 +7,6 @@
 
 ---
 
-<div align="center">
-
-  <h3> Gustavo's GitHub Stats</h3>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00&border_color=2a2a2a" 
-    alt="Gustavo Lola GitHub stats" 
-    height="160"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ff8c00&border_color=2a2a2a" 
-    alt="Top Languages" 
-    height="160"
-  />
-
-</div>
-
----
-
 ## Tools I Use
 
 <div align="start">
