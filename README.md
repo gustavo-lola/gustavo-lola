@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gustavo Lola</h1>
 
 <p align="center">
-  👨‍💻 <strong>Junior Software Engineer | DevOps Enthusiast</strong><br/>
+  👨‍💻 <strong> Full Stack Developer </strong><br/>
   📍 Arapiraca, Alagoas - Brazil
 </p>
 
