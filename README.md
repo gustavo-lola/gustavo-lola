@@ -1,43 +1,49 @@
-<h1 align="center">Hello 👋, I'm Gustavo Lola</h1>
+## 💛 Olá, meu nome é Gustavo Lola
+<img height=300 align="right" src="https://github.com/user-attachments/assets/0663180c-0749-4395-9762-b91507f7663d" />
 
----
+### Descrição
 
-## 🛠️ Tools I Use
+<section>
+<p align="justify">
+  Sou desenvolvedor <strong>full stack</strong>, com foco em tecnologias modernas como <strong>Next.js</strong> e <strong>Go</strong>.
+  Trabalho no desenvolvimento de aplicações web, APIs e sistemas escaláveis, além de contribuir com projetos open-source
+  e estudar novas stacks nas horas vagas.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-</div>
+### 🚀 Linguagens 
+<img height="20px" src="https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=aqua"/> 
+<img height="20px" src="https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=yellow"/> 
+<img height="20px" src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=blue"/> 
+<img height="20px" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue"/> 
+<img height="20px" src="https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white"/> 
+  
+### 💼 Ferramentas 
+<img height="20px" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=blue"/> 
+<img height="20px" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=green"/> 
+<img height="20px" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue"/> 
+<img height="20px" src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white"/> 
+<img height="20px" src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css&logoColor=38B2AC"/> 
+<img height="20px" src="https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=blue"/> 
 
----
+</section>
 
-## 📚 Currently Learning
+## ⭐ Github
+  
+<img src="https://github-readme-stats.vercel.app/api?username=gustavo-lola&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lola&theme=gruvbox&layout=compact" />
+  
+## 💌 Onde me encontrar: ⤵️
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Go"/>
-</div>
-
----
-
-## 📫 How to Reach Me
-
-<div align="center">
-  <a href="https://github.com/gustavo-lola" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="left">
+  <a href="mailto:seu-email@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/gustavo-lola/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gustavo-lola/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+
+  <a href="https://www.instagram.com/seu-user/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
