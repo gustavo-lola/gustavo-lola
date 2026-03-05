@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Full Stack**, com foco em tecnologias modernas como **Next.js** e **Go**.  
+Sou desenvolvedor Back-end, com foco em tecnologias modernas como **Next.js** e **Go**.  
 Atuo no desenvolvimento de aplicações web, APIs e sistemas escaláveis, priorizando boas
 práticas de arquitetura, performance e código limpo.
 
