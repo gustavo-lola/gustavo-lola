@@ -50,7 +50,7 @@ busco evoluir tecnicamente para entregar soluções eficientes, bem estruturadas
 
 ---
 
-### 💌 Onde me encontrar
+### ✉️ Onde me encontrar
 <p align="left">
   <a href="mailto:gustavolola.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2937?style=flat-square&logo=gmail&logoColor=EA4335"/>
