@@ -1,4 +1,4 @@
-## 🖤 Olá, meu nome é Gustavo Henrique
+## 🖤 Olá, meu nome é Gustavo Lóla
 
 <img
   align="right"
