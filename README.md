@@ -1,4 +1,4 @@
-## 🖤 Olá, meu nome é Gustavo Lóla
+## Oi, meu nome é Gustavo Lóla
 
 <img
   align="right"
@@ -7,7 +7,7 @@
 />
 
 
-### 🚀 Linguagens
+### ☕︎ Linguagens
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6)
 
 
-### 🧰 Ferramentas & Tecnologias
+### ⚛︎ Ferramentas & Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
@@ -29,13 +29,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
 
-### 📚 Atualmente aprendendo
+### ⌛︎ Atualmente aprendendo
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
 
 
-### ✉️ Onde me encontrar
+### ⚙︎ Onde me encontrar
 <p align="left">
   <a href="mailto:gustavolola.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2937?style=flat-square&logo=gmail&logoColor=EA4335"/>
