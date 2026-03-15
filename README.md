@@ -6,16 +6,6 @@
   src="https://user-images.githubusercontent.com/65029974/232166314-7e3dcd07-18de-4a4e-bcd0-037845897ee3.png"
 />
 
-### 👨‍💻 Sobre mim
-
-Sou desenvolvedor Back-end, com foco em tecnologias modernas como **Next.js** e **Go**.  
-Atuo no desenvolvimento de aplicações web, APIs e sistemas escaláveis, priorizando boas
-práticas de arquitetura, performance e código limpo.
-
-Tenho interesse em projetos **open-source**, estudo novas tecnologias de forma contínua e
-busco evoluir tecnicamente para entregar soluções eficientes, bem estruturadas e sustentáveis.
-
----
 
 ### 🚀 Linguagens
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
@@ -27,7 +17,6 @@ busco evoluir tecnicamente para entregar soluções eficientes, bem estruturadas
 ![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6)
 
----
 
 ### 🧰 Ferramentas & Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933)
@@ -40,15 +29,11 @@ busco evoluir tecnicamente para entregar soluções eficientes, bem estruturadas
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
 
----
-
 ### 📚 Atualmente aprendendo
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
 
-
----
 
 ### ✉️ Onde me encontrar
 <p align="left">
