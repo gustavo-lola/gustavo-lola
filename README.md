@@ -1,4 +1,4 @@
-## Oi, meu nome é Gustavo Lóla
+## Oi, eu sou o Gustavo Lóla 
 <img
   align="right"
   width="320"
@@ -35,15 +35,6 @@ Desenvolvedor de software apaixonado por criar experiências digitais que fazem 
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavo-lola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gustavo-lola&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-lola&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
