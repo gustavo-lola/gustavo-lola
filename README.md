@@ -6,16 +6,15 @@
   src="github(1)(1).png"
 />
 
-
 ### ☕︎ Linguagens
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![Ruby](https://img.shields.io/badge/Ruby-1f2937?style=flat-square&logo=ruby&logoColor=CC342D)
 ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB)
 ![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
 ![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6)
-
 
 ### ⚛︎ Ferramentas & Tecnologias
 ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933)
@@ -24,6 +23,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1f2937?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=CC0000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
@@ -32,7 +32,7 @@
 ![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
 ![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
-
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=CC0000)
 
 ### ⚙︎ Onde me encontrar
 <p align="left">
