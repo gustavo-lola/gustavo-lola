@@ -11,15 +11,15 @@ Desenvolvedor de software apaixonado por criar experiências digitais que fazem 
 
 ###  Linguagens
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,ruby,dart,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,js,ts,ruby,dart,html,css" />
 
 ###  Ferramentas & Tecnologias
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flutter,rails,postgres,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flutter,rails,postgres,mysql,mongodb" />
 
 ### Atualmente aprendendo
 
-<img src="https://skillicons.dev/icons?i=go,dart,flutter,rails&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,dart,flutter,rails" />
 
 ###  Onde me encontrar
 
