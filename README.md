@@ -1,40 +1,28 @@
 ## Oi, meu nome é Gustavo Lóla
-
 <img
   align="right"
   width="320"
   src="github(1)(1).png"
 />
 
-### ☕︎ Linguagens
-![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
-![Ruby](https://img.shields.io/badge/Ruby-1f2937?style=flat-square&logo=ruby&logoColor=CC342D)
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
-![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=378ADD&width=435&lines=Software+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
-### ⚛︎ Ferramentas & Tecnologias
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1f2937?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=CC0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=47A248)
+Desenvolvedor de software apaixonado por criar experiências digitais que fazem a diferença. Transformando ideias em código que funcionam.
 
-### ⌛︎ Atualmente aprendendo
-![Go](https://img.shields.io/badge/Go-1f2937?style=flat-square&logo=go&logoColor=00ADD8)
-![Dart](https://img.shields.io/badge/Dart-1f2937?style=flat-square&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=02569B)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=CC0000)
+###  Linguagens
 
-### ⚙︎ Onde me encontrar
+<img src="https://skillicons.dev/icons?i=go,js,ts,ruby,python,dart,html,css&theme=dark" />
+
+###  Ferramentas & Tecnologias
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flutter,rails,postgres,mysql,mongodb&theme=dark" />
+
+### Atualmente aprendendo
+
+<img src="https://skillicons.dev/icons?i=go,dart,flutter,rails&theme=dark" />
+
+###  Onde me encontrar
+
 <p align="left">
   <a href="mailto:gustavolola.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f2937?style=flat-square&logo=gmail&logoColor=EA4335"/>
@@ -43,3 +31,20 @@
     <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavo-lola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavo-lola&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=gustavo-lola&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-lola&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
