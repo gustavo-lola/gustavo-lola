@@ -11,7 +11,7 @@ Desenvolvedor de software apaixonado por criar experiências digitais que fazem 
 
 ###  Linguagens
 
-<img src="https://skillicons.dev/icons?i=go,js,ts,ruby,python,dart,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,js,ts,ruby,dart,html,css&theme=dark" />
 
 ###  Ferramentas & Tecnologias
 
