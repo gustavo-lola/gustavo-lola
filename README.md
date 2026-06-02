@@ -19,7 +19,7 @@ Desenvolvedor de software apaixonado por criar experiências digitais que fazem 
 
 ### Atualmente aprendendo
 
-<img src="https://skillicons.dev/icons?i=rails,dart,flutter,go" />
+<img src="https://skillicons.dev/icons?i=rails,go" />
 
 ###  Onde me encontrar
 
