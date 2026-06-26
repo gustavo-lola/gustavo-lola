@@ -1,8 +1,8 @@
-## Oi, eu sou o Gustavo Lóla 
+## Oi, eu sou o Gustavo Lóla
 <img
   align="right"
   width="320"
-  src="github(1)(1).png"
+  src="assets/luffy.gif"
 />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=378ADD&width=435&lines=Software+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
@@ -10,11 +10,9 @@
 Desenvolvedor de software apaixonado por criar experiências digitais que fazem a diferença. Transformando ideias em código que funcionam.
 
 ###  Linguagens
-
 <img src="https://skillicons.dev/icons?i=ruby,js,ts,dart,html,css" />
 
 ###  Ferramentas & Tecnologias
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flutter,rails,postgres,mysql,mongodb" />
 
 ### Atualmente aprendendo
