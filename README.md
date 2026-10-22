@@ -30,16 +30,4 @@ Desenvolvedor de software apaixonado por criar experiências digitais que fazem 
   </a>
 </p>
 
----
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/gustavo-lola">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-lola&theme=tokyo-night&hide_border=true&area=true"
-      alt="Gráfico de atividade do GitHub"
-      width="100%"
-    />
-  </a>
-</p>
 
